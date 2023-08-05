@@ -1,4 +1,4 @@
-# compiler-design
+## compiler-design
 ```
 #include<stdio.h>
 #include<ctype.h>
